@@ -8,7 +8,7 @@ app.get("/", function(req,res){
 })
 
 app.get("/produtos", function(req,res){
-    res.send(" lista de produtos")
+    res.send(" lista de produtos em faltagit ")
 })
 
 
